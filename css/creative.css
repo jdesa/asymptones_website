@@ -252,15 +252,19 @@ header .header-content .header-content-inner p {
     }
 }
 
+
+@width`Math.round(screen.width/6)`;
+
 .service-box p {
     margin-bottom: 0;
 }
 
 .portfolio-box {
+
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 239px;
+    max-width: @width;
 
 }
 
