@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="sun2.png">
+    <link rel="shortcut icon" href="img/asymptones_favicon.png">
 
     <title>The MIT Asymptones</title>
 
@@ -56,19 +56,19 @@
                         <a class="page-scroll" href="#listen">Listen</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#join">Members</a>
+                        <a class="page-scroll" href="#members">Members</a>
                     </li>
 
                     <li>
-                        <a class="page-scroll" href="#about">Audition</a>
+                        <a class="page-scroll" href="#audition">Audition</a>
                     </li>
 
                     <li>
-                        <a class="page-scroll" href="#about">Gigs & Requests</a>
+                        <a class="page-scroll" href="#gigs">Gigs & Requests</a>
                     </li>
 
                     <li>
-                        <a class="page-scroll" href="#about">Contact</a>
+                        <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                 
                 </ul>
@@ -116,7 +116,7 @@
         <!-- THE YOUTUBE PLAYER -->
         <div class="vid-container">
 
-            <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/119202759&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+            <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/119202759&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;color=69154e&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
         </div>
 
         <div style = "margin:75px"> </div>
@@ -133,27 +133,27 @@
 
                 <div class="vid-item" onClick="document.getElementById('vid_frame').src='https://youtube.com/embed/5u3K9Gn66Hk?autoplay=1&rel=0&showinfo=0&autohide=1'">
                   <div class="thumb"><img src="https://img.youtube.com/vi/5u3K9Gn66Hk/0.jpg"></div>
-                  <div class="desc">Friday(Matt Mulholland)</div>
+                  <div class="desc">Friday<br> (Matt Mulholland)</div>
                 </div>
                 
                 <div class="vid-item" onClick="document.getElementById('vid_frame').src='https://youtube.com/embed/UxCYr9dg8PY?autoplay=1&rel=0&showinfo=0&autohide=1'">
                   <div class="thumb"><img src="https://img.youtube.com/vi/UxCYr9dg8PY/0.jpg"></div>
-                  <div class="desc">Baba Yetu (Christopher Tin)</div>
+                  <div class="desc">Baba Yetu <br> (Christopher Tin)</div>
                 </div>
 
                 <div class="vid-item" onClick="document.getElementById('vid_frame').src='https://youtube.com/embed/LyCjHx57Bik?autoplay=1&rel=0&showinfo=0&autohide=1'">
                   <div class="thumb"><img src="https://img.youtube.com/vi/LyCjHx57Bik/0.jpg"></div>
-                  <div class="desc">Foil (Weird Al)</div>
+                  <div class="desc">Foil <br> (Weird Al)</div>
                 </div>
 
                 <div class="vid-item" onClick="document.getElementById('vid_frame').src='https://youtube.com/embed/m7OlzZPxit0?autoplay=1&rel=0&showinfo=0&autohide=1'">
                   <div class="thumb"><img src="https://img.youtube.com/vi/m7OlzZPxit0/0.jpg"></div>
-                  <div class="desc">Nemesis (Johnathan Coulton)</div>
+                  <div class="desc">Nemesis <br> (J. Coulton)</div>
                 </div>
 
                 <div class="vid-item" onClick="document.getElementById('vid_frame').src='https://youtube.com/embed/zlvHbdEjd9Q?autoplay=1&rel=0&showinfo=0&autohide=1'">
                   <div class="thumb"><img src="https://img.youtube.com/vi/zlvHbdEjd9Q/0.jpg"></div>
-                  <div class="desc">Title of the Song & The Fox (Ylvis)</div>
+                  <div class="desc">Title of the Song <br>  The Fox (Ylvis)</div>
                 </div>
 
                 <div class="vid-item" onClick="document.getElementById('vid_frame').src='https://youtube.com/embed/ygBXltkXKhU?autoplay=1&rel=0&showinfo=0&autohide=1'">
@@ -163,7 +163,7 @@
 
                 <div class="vid-item" onClick="document.getElementById('vid_frame').src='https://youtube.com/embed/fn12zl9Q8LU?autoplay=1&rel=0&showinfo=0&autohide=1'">
                   <div class="thumb"><img src="https://img.youtube.com/vi/fn12zl9Q8LU/0.jpg"></div>
-                  <div class="desc">SCV Love Song (Nerd Song)</div>
+                  <div class="desc">SCV Love Song <br> (Nerd Alert)</div>
                 </div>
 
 
@@ -182,10 +182,10 @@
 
     </section>
 
-    <section class="no-padding" id="portfolio">
+    <section class="no-padding" id="members">
         <div class="container-fluid">
             <div class="row no-gutter">
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
                         <img src="img/ziv1.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -200,7 +200,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
                         <img src="img/horkley1.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -215,7 +215,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
                         <img src="img/jacqui1.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -230,7 +230,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
                         <img src="img/cecilia1.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -245,7 +245,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
                         <img src="img/tessa1.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -260,7 +260,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
                         <img src="img/arin1.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -275,12 +275,197 @@
                         </div>
                     </a>
                 </div>
+                                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/jacqui1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Guess
+                                </div>
+                                <div class="project-name">
+                                    sadashdilasdila
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/ziv1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Ziv
+                                </div>
+                                <div class="project-name">
+                                    It's a Ziv!
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/cecilia1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Cecilia
+                                </div>
+                                <div class="project-name">
+                                    sasafhaslif
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/horkley1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Horkles
+                                </div>
+                                <div class="project-name">
+                                    woo
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/arin1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Arin
+                                </div>
+                                <div class="project-name">
+                                    ahsildsahlidas
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/tessa1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Tessa
+                                </div>
+                                <div class="project-name">
+                                    asbf,sabfash
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/cecilia1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Cecilia
+                                </div>
+                                <div class="project-name">
+                                    sasafhaslif
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/tessa1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Tessa
+                                </div>
+                                <div class="project-name">
+                                    asbf,sabfash
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/arin1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Arin
+                                </div>
+                                <div class="project-name">
+                                    ahsildsahlidas
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/ziv1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Ziv
+                                </div>
+                                <div class="project-name">
+                                    It's a Ziv!
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/horkley1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Horkles
+                                </div>
+                                <div class="project-name">
+                                    woo
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/jacqui1.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Guess
+                                </div>
+                                <div class="project-name">
+                                    sadashdilasdila
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+ 
             </div>
         </div>
     </section>
 
-    <section id="join" class="bg-primary" style="padding-bottom:50px;padding-top:50px;">
-        <div class="container" style = "margin-bottom:50px;margin-top:50px">
+    <section id="audition" class="bg-primary" style="padding-bottom:50px;padding-top:50px;">
+        <div class="container">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Audition</h2>
                     <hr class="light">
@@ -291,8 +476,8 @@
         </div>
     </section>
 
-    <section id="join" class="bg-light" style="padding-bottom:50px;padding-top:50px;">
-        <div class="container" style = "margin-bottom:50px;margin-top:50px">
+    <section id="gigs" class="bg-light" style="padding-bottom:50px;padding-top:50px;">
+        <div class="container" >
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Gigs and Song Requests</h2>
                     <hr>
@@ -304,7 +489,7 @@
     </section>
 
 <!-- Footer -->
-    <footer class="text-center">
+    <footer class="text-center" id="contact">
         <div class="footer-below">
             <div class="container">
                 <div class="row">
