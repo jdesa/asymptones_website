@@ -91,9 +91,11 @@
                     <h2 class="section-heading">About</h2>
                     <hr class="light">
 
-                    <p class="text" style="text-align:justify">We are the Asymptones. We take a low-key approach to a cappella singing! The group was started in 2007 when a few MIT students started singing together for fun, and grew from there into our group today. The Asymptones are dedicated to being a low-time-commitment group that sings for fun! The group was started to let us sing fun songs without dedicating 6+ hours to rehearsal every week. Right now we sing only 3 hours per week! We sing everything from Guitar Hero hits to Disney songs to video game music and are constantly arranging new music in arranging parties.</p>
+                    <p class="text" style="text-align:justify">Hello there! We are the MIT Asymptones, MIT's low-time-commitment a capella group with a focus on fun and nerdy music! We are dedicated to being a lower-time commitment option (with three hours of rehearsal a week versus the six or more of other groups) to better allow members to balance a capella singing with classes and other activities. We perform at three major concerts each year &mdash; the Family Weekend A Capella Songfest in the fall, the Campus Preview Weekend A Capella Concert in the spring, and our own concert near the end of the spring semester &mdash; in addition to collaborative shows with MIT's improv comedy troupe, Road Kill Buffet, guest grouping, and other small gigs. </p>
                     
-                    <p class="text" style="text-align:justify">We are the Asymptones. We take a low-key approach to a cappella singing! The group was started in 2007 when a few MIT students started singing together for fun, and grew from there into our group today. The Asymptones are dedicated to being a low-time-commitment group that sings for fun! The group was started to let us sing fun songs without dedicating 6+ hours to rehearsal every week. Right now we sing only 3 hours per week! We sing everything from Guitar Hero hits to Disney songs to video game music and are constantly arranging new music in arranging parties.</p>
+                    <p class="text" style="text-align:justify"> As an a capella group, we focus on arranging and performing fun and nerdy music of a variety of genres from video games, movies, youtube hits, parodies, and more. Some of our recent songs include "Friday" by Matt Mullholand, "Baba Yetu" by Christopher Tin (featured in Civilization IV), "SCV Love Song" by Nerd Alert, "I See Fire" by Ed Sheeran (featured in the Hobbit), "Foil" and "White and Nerdy" by Weird Al, "Still Alive", "Re: Your Brains", and "Nemeses" by Jonathan Coulton, and "The Fox" by Ylvis. </p>
+
+                    <p class="text" style="text-align:justify"> If you have song recommendations or want us to perform at your event, please check out "Gigs & Requests" for more information. If you are interested in joining, check out "Auditions" for details on our audition process! </p>
 
                 </div>
             </div>
@@ -186,7 +188,7 @@
         <div class="container-fluid">
             <div class="row no-gutter">
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/ziv1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -201,7 +203,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/horkley1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -216,7 +218,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/jacqui1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -231,7 +233,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/cecilia1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -246,7 +248,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/tessa1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -261,7 +263,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/arin1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -276,7 +278,7 @@
                     </a>
                 </div>
                                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/jacqui1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -291,7 +293,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/ziv1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -308,7 +310,7 @@
 
 
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/cecilia1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -323,7 +325,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/horkley1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -340,7 +342,7 @@
 
 
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/arin1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -355,7 +357,7 @@
                     </a>
                 </div>
                                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/tessa1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -370,7 +372,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/cecilia1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -385,7 +387,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/tessa1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -400,7 +402,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/arin1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -415,7 +417,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/ziv1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -430,7 +432,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/horkley1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -445,7 +447,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a class="portfolio-box">
                         <img src="img/jacqui1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -471,7 +473,7 @@
                     <hr class="light">
 
                     <p class="text" style="text-align:justify">
-                    Interested in auditioning? Fall auditions are held the weekend before term starts (come see us at the Fall Midway for details!) and we sometimes holds IAP or spring auditions depending on the year. Each audition is around 7 minutes long and involves some vocal warmups and excercises followed by a solo of your choice (it doesn't have to be nerdy)! Email us at asymptones-officers@mit.edu to schedule an audition or if you have any questions!
+                    Interested in auditioning? Fall auditions are held the weekend before term starts (come see us at the Fall Midway for details!) and we sometimes hold IAP or spring auditions depending on our group needs that semester. Each audition is around seven minutes long and involves some vocal warmups and excercises followed by a solo of your choice (it doesn't have to be nerdy)! Email us at asymptones-officers@mit.edu if you want to schedule an audition or have any questions!
                     </p>
         </div>
     </section>
@@ -479,11 +481,11 @@
     <section id="gigs" class="bg-light" style="padding-bottom:50px;padding-top:50px;">
         <div class="container" >
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Gigs and Song Requests</h2>
+                    <h2 class="section-heading">Gigs and Requests</h2>
                     <hr>
 
                     <p class="text" style="text-align:justify">
-                    Interested in auditioning? Fall auditions are held the weekend before term starts (come see us at the Fall Midway for details!) and we sometimes holds IAP or spring auditions depending on the year. Each audition is around 7 minutes long and involves some vocal warmups and excercises followed by a solo of your choice (it doesn't have to be nerdy)! Email us at asymptones-officers@mit.edu to schedule an audition or if you have any questions!
+                    Got an event you'd like us to sing at? Contact us at asymptones-officers@mit.edu with details about your event and we'll get back to you about our avaliability. If you have any fun or nerdy songs to suggest (or songs you've arranged or written that you want performed), shoot your ideas to asymptones-officers@mit.edu and we'll get back to you about it &mdash; we're always open to new ideas. Thanks!
                     </p>
         </div>
     </section>
