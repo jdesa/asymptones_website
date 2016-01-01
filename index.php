@@ -187,7 +187,7 @@
             <div class="row no-gutter">
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/ziv1.png" class="img-responsive" alt="">
+                        <img src="img/ziv1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -202,7 +202,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/horkley1.png" class="img-responsive" alt="">
+                        <img src="img/horkley1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -217,7 +217,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/jacqui1.png" class="img-responsive" alt="">
+                        <img src="img/jacqui1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -232,7 +232,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/cecilia1.png" class="img-responsive" alt="">
+                        <img src="img/cecilia1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -247,7 +247,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/tessa1.png" class="img-responsive" alt="">
+                        <img src="img/tessa1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -262,7 +262,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/arin1.png" class="img-responsive" alt="">
+                        <img src="img/arin1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -277,7 +277,7 @@
                 </div>
                                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/jacqui1.png" class="img-responsive" alt="">
+                        <img src="img/jacqui1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -292,7 +292,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/ziv1.png" class="img-responsive" alt="">
+                        <img src="img/ziv1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -309,7 +309,7 @@
 
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/cecilia1.png" class="img-responsive" alt="">
+                        <img src="img/cecilia1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -324,7 +324,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/horkley1.png" class="img-responsive" alt="">
+                        <img src="img/horkley1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -341,7 +341,7 @@
 
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/arin1.png" class="img-responsive" alt="">
+                        <img src="img/arin1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -356,7 +356,7 @@
                 </div>
                                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/tessa1.png" class="img-responsive" alt="">
+                        <img src="img/tessa1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -371,7 +371,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/cecilia1.png" class="img-responsive" alt="">
+                        <img src="img/cecilia1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -386,7 +386,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/tessa1.png" class="img-responsive" alt="">
+                        <img src="img/tessa1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -401,7 +401,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/arin1.png" class="img-responsive" alt="">
+                        <img src="img/arin1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -416,7 +416,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/ziv1.png" class="img-responsive" alt="">
+                        <img src="img/ziv1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -431,7 +431,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/horkley1.png" class="img-responsive" alt="">
+                        <img src="img/horkley1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -446,7 +446,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/jacqui1.png" class="img-responsive" alt="">
+                        <img src="img/jacqui1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
