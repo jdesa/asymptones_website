@@ -189,59 +189,115 @@
             <div class="row no-gutter">
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/ziv1.png" class="img-responsive">
+                        <img src="img/asymptones_color_logo_clipped.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Ziv
+                                    Asymptones Members 2015-2016
                                 </div>
                                 <div class="project-name">
-                                    It's a Ziv!
+                                    
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
+
+                <div class="col-lg-2 col-sm-6">
+                    <a class="portfolio-box">
+                        <img src="img/ziv1.png" class="img-responsive">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Ziv Scully <br> 2016 ~ 18C
+                                </div>
+                                <div class="project-name">
+                                    President
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a class="portfolio-box">
+                        <img src="img/wendy1.png" class="img-responsive">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Wendy Georgan <br> 2016 ~ 9
+                                </div>
+                                <div class="project-name">
+                                    Music Director
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a class="portfolio-box">
+                        <img src="img/nick1.png" class="img-responsive">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Nicholas Garcia <br> 2017 ~ 5
+                                </div>
+                                <div class="project-name">
+                                    Secretary
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                    <a class="portfolio-box">
+                        <img src="img/chelsea.png" class="img-responsive">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Cheslea Georgan <br> 2016 ~ 18C
+                                </div>
+                                <div class="project-name">
+                                    Treasurer
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
                         <img src="img/horkley1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Horkles
-                                </div>
-                                <div class="project-name">
-                                    woo
+                                    Ben Horkley <br> MEng 
+                                    '16, BS '14 ~ 6-2 & 8
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
+
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/jacqui1.png" class="img-responsive">
+                        <img src="img/alex1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Guess
-                                </div>
-                                <div class="project-name">
-                                    sadashdilasdila
+                                    Alex Bachwich <br> MS 2017 ~ 1
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
+                
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/cecilia1.png" class="img-responsive">
+                        <img src="img/sin1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Cecilia
-                                </div>
-                                <div class="project-name">
-                                    sasafhaslif
+                                    Sin Kim <br> 2016 ~ 6-7
                                 </div>
                             </div>
                         </div>
@@ -253,10 +309,34 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Tessa
+                                    Tessa Green <br> 2016 ~ 8
                                 </div>
-                                <div class="project-name">
-                                    asbf,sabfash
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-2 col-sm-6">
+                    <a class="portfolio-box">
+                        <img src="img/jacqui2.png" class="img-responsive">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Jacqui De Sa <br> 2016 ~ 6-2
+                                </div>
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-2 col-sm-6">
+                    <a class="portfolio-box">
+                        <img src="img/kali1.png" class="img-responsive">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Kali Rosendo <br> 2017 ~ 1
                                 </div>
                             </div>
                         </div>
@@ -264,14 +344,11 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/arin1.png" class="img-responsive">
+                        <img src="img/johnma1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Arin
-                                </div>
-                                <div class="project-name">
-                                    ahsildsahlidas
+                                    John Ma <br> 2017 ~ 6-3
                                 </div>
                             </div>
                         </div>
@@ -279,14 +356,11 @@
                 </div>
                                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/jacqui1.png" class="img-responsive">
+                        <img src="img/alasdair.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Guess
-                                </div>
-                                <div class="project-name">
-                                    sadashdilasdila
+                                    Alasdair Unwin  <br> CME 2017 ~ 2
                                 </div>
                             </div>
                         </div>
@@ -294,31 +368,11 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/ziv1.png" class="img-responsive">
+                        <img src="img/kim1.jpg" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Ziv
-                                </div>
-                                <div class="project-name">
-                                    It's a Ziv!
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-
-                <div class="col-lg-2 col-sm-6">
-                    <a class="portfolio-box">
-                        <img src="img/cecilia1.png" class="img-responsive">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Cecilia
-                                </div>
-                                <div class="project-name">
-                                    sasafhaslif
+                                    Kimberly Dauber <br> 2017 ~ 6-2
                                 </div>
                             </div>
                         </div>
@@ -326,76 +380,11 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/horkley1.png" class="img-responsive">
+                        <img src="img/edward1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Horkles
-                                </div>
-                                <div class="project-name">
-                                    woo
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-
-                <div class="col-lg-2 col-sm-6">
-                    <a class="portfolio-box">
-                        <img src="img/arin1.png" class="img-responsive">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Arin
-                                </div>
-                                <div class="project-name">
-                                    ahsildsahlidas
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                                <div class="col-lg-2 col-sm-6">
-                    <a class="portfolio-box">
-                        <img src="img/tessa1.png" class="img-responsive">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Tessa
-                                </div>
-                                <div class="project-name">
-                                    asbf,sabfash
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-2 col-sm-6">
-                    <a class="portfolio-box">
-                        <img src="img/cecilia1.png" class="img-responsive">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Cecilia
-                                </div>
-                                <div class="project-name">
-                                    sasafhaslif
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-2 col-sm-6">
-                    <a class="portfolio-box">
-                        <img src="img/tessa1.png" class="img-responsive">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Tessa
-                                </div>
-                                <div class="project-name">
-                                    asbf,sabfash
+                                    Edward Park <br> 2017 ~ 6-2
                                 </div>
                             </div>
                         </div>
@@ -407,10 +396,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Arin
-                                </div>
-                                <div class="project-name">
-                                    ahsildsahlidas
+                                    Arin Lampejo <br> 2018
                                 </div>
                             </div>
                         </div>
@@ -418,14 +404,11 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/ziv1.png" class="img-responsive">
+                        <img src="img/cecilia1.png" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Ziv
-                                </div>
-                                <div class="project-name">
-                                    It's a Ziv!
+                                    Cecilia Siqueiros <br> 2018
                                 </div>
                             </div>
                         </div>
@@ -433,34 +416,17 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/horkley1.png" class="img-responsive">
+                        <img src="img/sierra.jpg" class="img-responsive">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Horkles
-                                </div>
-                                <div class="project-name">
-                                    woo
+                                    Sierra Brooks <br> 2018
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-2 col-sm-6">
-                    <a class="portfolio-box">
-                        <img src="img/jacqui1.png" class="img-responsive">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Guess
-                                </div>
-                                <div class="project-name">
-                                    sadashdilasdila
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+
  
             </div>
         </div>
@@ -485,7 +451,7 @@
                     <hr>
 
                     <p class="text" style="text-align:justify">
-                    Got an event you'd like us to sing at? Contact us at asymptones-officers@mit.edu with details about your event and we'll get back to you about our avaliability. If you have any fun or nerdy songs to suggest (or songs you've arranged or written that you want performed), shoot your ideas to asymptones-officers@mit.edu and we'll get back to you about it &mdash; we're always open to new ideas. Thanks!
+                    Got an event you'd like us to sing at? Contact us at asymptones-officers@mit.edu with details about your event and we'll get back to you about our avaliability. If you have any fun or nerdy songs to suggest (or songs you've arranged or written that you want performed), shoot your thoughts to asymptones-officers@mit.edu and we'll get back to you about it &mdash; we're always open to new ideas. Thanks!
                     </p>
         </div>
     </section>
