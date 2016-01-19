@@ -212,7 +212,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Ziv Scully <br> 2016 ~ 18C
+                                    Ziv Scully <br> 2016 ~ 18C ~ Bass
                                 </div>
                                 <div class="project-name">
                                     President
@@ -227,7 +227,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Wendy Georgan <br> 2016 ~ 9
+                                    Wendy Georgan <br> 2016 ~ 9 ~ Tenor
                                 </div>
                                 <div class="project-name">
                                     Music Director
@@ -242,7 +242,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Nicholas Garcia <br> 2017 ~ 5
+                                    Nicholas Garcia <br> 2017 ~ 5 ~ Bass
                                 </div>
                                 <div class="project-name">
                                     Secretary
@@ -257,7 +257,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Cheslea Georgan <br> 2016 ~ 18C
+                                    Cheslea Georgan <br> 2016 ~ 18C ~ Alto
                                 </div>
                                 <div class="project-name">
                                     Treasurer
@@ -275,6 +275,7 @@
                                 <div class="project-category text-faded">
                                     Ben Horkley <br> MEng 
                                     '16, BS '14 ~ 6-2 & 8
+                                    <br> Tenor
                                 </div>
                             </div>
                         </div>
@@ -287,7 +288,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Alex Bachwich <br> MS 2017 ~ 1
+                                    Alex Bachwich <br> MS 2017 ~ 1 ~ Bass
                                 </div>
                             </div>
                         </div>
@@ -300,7 +301,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Sin Kim <br> 2016 ~ 6-7
+                                    Sin Kim <br> 2016 ~ 6-7 ~ Tenor
                                 </div>
                             </div>
                         </div>
@@ -312,7 +313,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Tessa Green <br> 2016 ~ 8
+                                    Tessa Green <br> 2016 ~ 8 ~ Alto
                                 </div>
                             </div>
                         </div>
@@ -324,7 +325,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Mitchell Lee <br> 2016 ~ 18
+                                    Mitchell Lee <br> 2016 ~ 18 ~ Tenor
                                 </div>
                             </div>
                         </div>
@@ -336,7 +337,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Jacqui De Sa <br> 2016 ~ 6-2
+                                    Jacqui De Sa <br> 2016 ~ 6-2 ~ Alto
                                 </div>
 
                             </div>
@@ -350,7 +351,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Kali Rosendo <br> 2017 ~ 1
+                                    Kali Rosendo <br> 2017 ~ 1 ~ Alto
                                 </div>
                             </div>
                         </div>
@@ -362,7 +363,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    John Ma <br> 2017 ~ 6-3
+                                    John Ma <br> 2017 ~ 6-3 ~ Bass
                                 </div>
                             </div>
                         </div>
@@ -374,7 +375,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Alasdair Unwin  <br> CME 2017 ~ 2
+                                    Alasdair Unwin  <br> CME 2017 ~ 2 ~ Baritone
                                 </div>
                             </div>
                         </div>
@@ -386,7 +387,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Kimberly Dauber <br> 2017 ~ 6-2
+                                    Kimberly Dauber <br> 2018 ~ 6-2 ~ Soprano
                                 </div>
                             </div>
                         </div>
@@ -398,7 +399,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Edward Park <br> 2017 ~ 6-2
+                                    Edward Park <br> 2018 ~ 6-2 ~ Tenor
                                 </div>
                             </div>
                         </div>
@@ -410,7 +411,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Arin Lampejo <br> 2018
+                                    Arin Lampejo <br> 2019 ~ Alto
                                 </div>
                             </div>
                         </div>
@@ -422,7 +423,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Cecilia Siqueiros <br> 2018
+                                    Cecilia Siqueiros <br> 2019 ~ Soprano
                                 </div>
                             </div>
                         </div>
@@ -434,7 +435,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Sierra Brooks <br> 2018
+                                    Sierra Brooks <br> 2019 ~ Soprano
                                 </div>
                             </div>
                         </div>
