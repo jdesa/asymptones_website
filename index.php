@@ -91,7 +91,7 @@
                     <h2 class="section-heading">About</h2>
                     <hr class="light">
 
-                    <p class="text" style="text-align:justify">Hello there! We are the MIT Asymptones, MIT's low-time-commitment a cappella group with a focus on fun and nerdy music! We are dedicated to being a lower-time commitment option (with three hours of rehearsal a week versus the six or more of other groups) to better allow members to balance a cappella singing with classes and other activities. We perform at three major concerts each year &mdash; the Family Weekend A Cappella Songfest in the fall, the Campus Preview Weekend A Cappella Concert in the spring, and our own concert near the end of the spring semester &mdash; in addition to collaborative shows with MIT's improv comedy troupe, Road Kill Buffet, guest grouping, and other small gigs. </p>
+                    <p class="text" style="text-align:justify">Hello there! We are the MIT Asymptones, MIT's low-time-commitment a cappella group with a focus on fun and nerdy music! We are dedicated to being a lower-time commitment option (with three hours of rehearsal a week instead of six) to better allow members to balance a cappella singing with classes and other activities. We perform at three major concerts each year &mdash; the Family Weekend A Cappella Songfest in the fall, the Campus Preview Weekend A Cappella Concert in the spring, and our own concert near the end of the spring semester &mdash; in addition to collaborative shows with MIT's improv comedy troupe, Road Kill Buffet, guest grouping, and other small gigs. </p>
                     
                     <p class="text" style="text-align:justify"> As an a cappella group, we focus on arranging and performing fun and nerdy music of a variety of genres from video games, movies, youtube hits, parodies, and more. Some of our recent songs include "Friday" by Matt Mullholand, "Baba Yetu" by Christopher Tin (featured in Civilization IV), "SCV Love Song" by Nerd Alert, "I See Fire" by Ed Sheeran (featured in the Hobbit), "Foil" and "White and Nerdy" by Weird Al, "Still Alive", "Re: Your Brains", and "Nemeses" by Jonathan Coulton, and "The Fox" by Ylvis. </p>
 
@@ -187,6 +187,8 @@
     <section class="no-padding" id="members">
         <div class="container-fluid">
             <div class="row no-gutter">
+
+                <!--
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
                         <img src="img/asymptones_color_logo_clipped.png" class="img-responsive">
@@ -202,6 +204,7 @@
                         </div>
                     </a>
                 </div>
+            -->
 
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
@@ -315,7 +318,21 @@
                         </div>
                     </a>
                 </div>
-
+                <div class="col-lg-2 col-sm-6">
+                    <a class="portfolio-box">
+                        <img src="img/mitchell1.png" class="img-responsive">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Mitchell Lee
+                                </div>
+                                <div class="project-name">
+                                    sasafhaslif
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
                 <div class="col-lg-2 col-sm-6">
                     <a class="portfolio-box">
                         <img src="img/jacqui2.png" class="img-responsive">
